@@ -1,0 +1,350 @@
+[error] [2025-06-25T10:11:23.539Z] : uncaughtException: node:internal/modules/cjs/loader:1148
+  throw err;
+  ^
+
+Error: Cannot find module 'D:\Traqmetrix\Zoho\plugin-manifest.json'
+Require stack:
+- C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+    at Module._load (node:internal/modules/cjs/loader:986:27)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\91950\\AppData\\Roaming\\npm\\node_modules\\zoho-extension-toolkit\\lib\\module_support\\prepack.js'
+  ]
+}
+
+Node.js v20.14.0
+Error: node:internal/modules/cjs/loader:1148
+  throw err;
+  ^
+
+Error: Cannot find module 'D:\Traqmetrix\Zoho\plugin-manifest.json'
+Require stack:
+- C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+    at Module._load (node:internal/modules/cjs/loader:986:27)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\91950\\AppData\\Roaming\\npm\\node_modules\\zoho-extension-toolkit\\lib\\module_support\\prepack.js'
+  ]
+}
+
+Node.js v20.14.0
+    at C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\utils\runHookCommand.js:47:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[error] [2025-06-25T10:25:38.222Z] : uncaughtException: node:internal/modules/cjs/loader:1148
+  throw err;
+  ^
+
+Error: Cannot find module 'D:\Traqmetrix\Zoho\plugin-manifest.json'
+Require stack:
+- C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+    at Module._load (node:internal/modules/cjs/loader:986:27)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\91950\\AppData\\Roaming\\npm\\node_modules\\zoho-extension-toolkit\\lib\\module_support\\prepack.js'
+  ]
+}
+
+Node.js v20.14.0
+Error: node:internal/modules/cjs/loader:1148
+  throw err;
+  ^
+
+Error: Cannot find module 'D:\Traqmetrix\Zoho\plugin-manifest.json'
+Require stack:
+- C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+    at Module._load (node:internal/modules/cjs/loader:986:27)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\91950\\AppData\\Roaming\\npm\\node_modules\\zoho-extension-toolkit\\lib\\module_support\\prepack.js'
+  ]
+}
+
+Node.js v20.14.0
+    at C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\utils\runHookCommand.js:47:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[error] [2025-06-25T10:26:12.359Z] : uncaughtException: node:internal/modules/cjs/loader:1148
+  throw err;
+  ^
+
+Error: Cannot find module 'D:\Traqmetrix\Zoho\plugin-manifest.json'
+Require stack:
+- C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+    at Module._load (node:internal/modules/cjs/loader:986:27)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\91950\\AppData\\Roaming\\npm\\node_modules\\zoho-extension-toolkit\\lib\\module_support\\prepack.js'
+  ]
+}
+
+Node.js v20.14.0
+Error: node:internal/modules/cjs/loader:1148
+  throw err;
+  ^
+
+Error: Cannot find module 'D:\Traqmetrix\Zoho\plugin-manifest.json'
+Require stack:
+- C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+    at Module._load (node:internal/modules/cjs/loader:986:27)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\91950\\AppData\\Roaming\\npm\\node_modules\\zoho-extension-toolkit\\lib\\module_support\\prepack.js'
+  ]
+}
+
+Node.js v20.14.0
+    at C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\utils\runHookCommand.js:47:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[error] [2025-06-25T10:26:18.469Z] : uncaughtException: node:internal/modules/cjs/loader:1148
+  throw err;
+  ^
+
+Error: Cannot find module 'D:\Traqmetrix\Zoho\plugin-manifest.json'
+Require stack:
+- C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+    at Module._load (node:internal/modules/cjs/loader:986:27)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\91950\\AppData\\Roaming\\npm\\node_modules\\zoho-extension-toolkit\\lib\\module_support\\prepack.js'
+  ]
+}
+
+Node.js v20.14.0
+Error: node:internal/modules/cjs/loader:1148
+  throw err;
+  ^
+
+Error: Cannot find module 'D:\Traqmetrix\Zoho\plugin-manifest.json'
+Require stack:
+- C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+    at Module._load (node:internal/modules/cjs/loader:986:27)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\91950\\AppData\\Roaming\\npm\\node_modules\\zoho-extension-toolkit\\lib\\module_support\\prepack.js'
+  ]
+}
+
+Node.js v20.14.0
+    at C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\utils\runHookCommand.js:47:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[error] [2025-06-25T10:26:21.844Z] : uncaughtException: node:internal/modules/cjs/loader:1148
+  throw err;
+  ^
+
+Error: Cannot find module 'D:\Traqmetrix\Zoho\plugin-manifest.json'
+Require stack:
+- C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+    at Module._load (node:internal/modules/cjs/loader:986:27)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\91950\\AppData\\Roaming\\npm\\node_modules\\zoho-extension-toolkit\\lib\\module_support\\prepack.js'
+  ]
+}
+
+Node.js v20.14.0
+Error: node:internal/modules/cjs/loader:1148
+  throw err;
+  ^
+
+Error: Cannot find module 'D:\Traqmetrix\Zoho\plugin-manifest.json'
+Require stack:
+- C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+    at Module._load (node:internal/modules/cjs/loader:986:27)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\91950\\AppData\\Roaming\\npm\\node_modules\\zoho-extension-toolkit\\lib\\module_support\\prepack.js'
+  ]
+}
+
+Node.js v20.14.0
+    at C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\utils\runHookCommand.js:47:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[error] [2025-06-25T10:28:51.658Z] : uncaughtException: node:internal/modules/cjs/loader:1148
+  throw err;
+  ^
+
+Error: Cannot find module 'D:\Traqmetrix\Zoho\plugin-manifest.json'
+Require stack:
+- C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+    at Module._load (node:internal/modules/cjs/loader:986:27)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\91950\\AppData\\Roaming\\npm\\node_modules\\zoho-extension-toolkit\\lib\\module_support\\prepack.js'
+  ]
+}
+
+Node.js v20.14.0
+Error: node:internal/modules/cjs/loader:1148
+  throw err;
+  ^
+
+Error: Cannot find module 'D:\Traqmetrix\Zoho\plugin-manifest.json'
+Require stack:
+- C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+    at Module._load (node:internal/modules/cjs/loader:986:27)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\91950\\AppData\\Roaming\\npm\\node_modules\\zoho-extension-toolkit\\lib\\module_support\\prepack.js'
+  ]
+}
+
+Node.js v20.14.0
+    at C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\utils\runHookCommand.js:47:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[error] [2025-06-25T10:33:12.640Z] : uncaughtException: node:internal/modules/cjs/loader:1148
+  throw err;
+  ^
+
+Error: Cannot find module 'D:\Traqmetrix\Zoho\plugin-manifest.json'
+Require stack:
+- C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+    at Module._load (node:internal/modules/cjs/loader:986:27)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\91950\\AppData\\Roaming\\npm\\node_modules\\zoho-extension-toolkit\\lib\\module_support\\prepack.js'
+  ]
+}
+
+Node.js v20.14.0
+Error: node:internal/modules/cjs/loader:1148
+  throw err;
+  ^
+
+Error: Cannot find module 'D:\Traqmetrix\Zoho\plugin-manifest.json'
+Require stack:
+- C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+    at Module._load (node:internal/modules/cjs/loader:986:27)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\module_support\prepack.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\91950\\AppData\\Roaming\\npm\\node_modules\\zoho-extension-toolkit\\lib\\module_support\\prepack.js'
+  ]
+}
+
+Node.js v20.14.0
+    at C:\Users\91950\AppData\Roaming\npm\node_modules\zoho-extension-toolkit\lib\utils\runHookCommand.js:47:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
